@@ -8,7 +8,7 @@ This project involves building a **Student Course Management System**. The proje
 
 ##  Entity Relationship Diagram (ERD)
 
-<img src="images/img1.png" alt="ERD" width="300" height="200"/>
+<img src="images/img5.png" alt="ERD" width="300" height="200"/>
 
 ---
 
