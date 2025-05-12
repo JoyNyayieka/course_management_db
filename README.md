@@ -8,7 +8,7 @@ This project involves building a **Student Course Management System**. The proje
 
 ##  Entity Relationship Diagram (ERD)
 
-![ERD](image/img5.png)
+![ERD](images/img5.png)  
 
 ---
 
@@ -83,13 +83,13 @@ This project involves building a **Student Course Management System**. The proje
 
 ## Sample Output Descriptions
 - **Average Grade per Course**:
-  ![Output](image/img1.png)
+  ![Output](images/img1.png)
 - **Top 3 Students**:
-  ![Output](image/img2.png)
+  ![Output](images/img2.png)
 - **Student Course Summary View**:
-  ![Output](image/img3.png)
+  ![Output](images/img3.png)
 - **Failing Students**:
-  ![Output](image/img4.png)
+  ![Output](images/img4.png)
 
 ---
 
