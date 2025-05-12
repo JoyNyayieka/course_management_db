@@ -8,7 +8,7 @@ This project involves building a **Student Course Management System**. The proje
 
 ##  Entity Relationship Diagram (ERD)
 
-![ERD](image/img5)
+![ERD](image/img5.png)
 
 ---
 
@@ -83,17 +83,17 @@ This project involves building a **Student Course Management System**. The proje
 
 ## Sample Output Descriptions
 - **Average Grade per Course**:
-  ![Output](image/img1)
+  ![Output](image/img1.png)
 - **Top 3 Students**:
-  ![Output](image/img2)
+  ![Output](image/img2.png)
 - **Student Course Summary View**:
-  ![Output](image/img3)
+  ![Output](image/img3.png)
 - **Failing Students**:
-  ![Output](image/img4)
+  ![Output](image/img4.png)
 
 ---
 
-## 🚀 Advanced SQL Features
+##  Advanced SQL Features
 
 - **View**:
   - `student_course_summary`: A view that combines student names, course IDs, and grades for simplified reporting.
@@ -103,7 +103,7 @@ This project involves building a **Student Course Management System**. The proje
 
 ---
 
-## 🧠 Challenges and Lessons Learned
+## Challenges and Lessons Learned
 
 - Learned how to design and normalize relational schemas for real-world systems.
 - Practiced using aggregate functions and conditional logic in SQL.
@@ -111,7 +111,7 @@ This project involves building a **Student Course Management System**. The proje
 - Gained experience in documenting SQL projects effectively for collaboration and GitHub hosting.
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project provided hands-on experience in building and querying a relational database from scratch. By simulating a course management system, I strengthened my SQL fundamentals and built a foundation for more complex data engineering and analytics work.
 
